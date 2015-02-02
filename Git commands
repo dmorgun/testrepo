@@ -1,0 +1,5 @@
+git init			    initialize a git repository inside a particular folder
+git status		        status
+git add	<new file>	    start tracking changes made to <new file>; add to STAGING
+git commit -m           To store our staged changes we run the commit command with a message describing what we've changed.
+git add '*.txt'         Add >=1 file(s) using wildcard, don't forget the quotes!
